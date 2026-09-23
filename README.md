@@ -1,4 +1,4 @@
-![Jack'lul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacklul&count_private=true&show_icons=true&theme=transparent)
+![Jack'lul's GitHub Stats](https://github-stats-extended.vercel.app/api?username=jacklul&count_private=true&show_icons=true&theme=transparent)
 
 <!--
 ### Hi there 🐾
